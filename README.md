@@ -1,6 +1,6 @@
 # ASCII-Clock
 A Python-based terminal utility that converts digital timestamps into stylized ASCII art displays. This project was developed as part of a programming assignment to demonstrate data structure manipulation, string formatting, and time conversion logic.
-[ascii_clock.py](https://github.com/user-attachments/files/25591629/ascii_clock.py)
+
 
 one=[' 1 ','11 ',' 1 ',' 1 ','111']
 two =['222','  2','222','2  ','222']
